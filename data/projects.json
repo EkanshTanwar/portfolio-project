@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Portfolio Website",
+    "description": "A full-stack personal portfolio built with HTML, CSS, JavaScript, and a Node.js/Express backend. Showcases skills, projects, and provides a working contact form.",
+    "tech": ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+    "githubUrl": "https://github.com/EkanshTanwar/Portfolio-Website",
+    "liveUrl": "",
+    "sheetNo": "01"
+  },
+  {
+    "id": 2,
+    "title": "Project Two",
+    "description": "A full-stack event calendar app for creating, editing, and deleting events in a month-view calendar. Built with a Node.js/Express backend and REST API, with a vanilla JavaScript frontend that updates the calendar in real time.",
+    "tech": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js"],
+    "githubUrl": "https://github.com/your-username/project-two",
+    "liveUrl": "",
+    "sheetNo": "02"
+  }
+]

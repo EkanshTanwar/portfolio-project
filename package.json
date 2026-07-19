@@ -1,0 +1,17 @@
+{
+  "name": "personal-portfolio-website",
+  "version": "1.0.0",
+  "description": "A personal portfolio website with a Node.js/Express backend and vanilla HTML/CSS/JS frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "internship", "express", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
